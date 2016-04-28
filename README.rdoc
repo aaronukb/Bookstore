@@ -1,3 +1,8 @@
+This is simple application developed using Ruby on Rails (ROR) programming language. 
+It allows user to add books details.
+
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
