@@ -1,3 +1,15 @@
 This is simple application developed using Ruby on Rails (ROR) programming language. 
 
 It allows user to add books details.
+
+Functionality:
+
+Add author name
+Add category
+Add publisher
+
+Manage category
+
+Edit Update Destroy Book/category/author
+
+This is develped as initial learning project 
